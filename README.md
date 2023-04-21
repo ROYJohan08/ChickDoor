@@ -1,4 +1,4 @@
-# hickDoor : La porte DIY pour tout le monde
+# ChickDoor : La porte DIY pour tout le monde
 ## Description.
 ChickDoor est une porte DIY accessibke à tout le monde, peut chère , pratique et adaptable à toutes les situations.
 
